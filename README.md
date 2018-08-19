@@ -1,5 +1,6 @@
 # hello-world
 New to github
 
-Hiya!
-Can someone please explain regex to me again in a different way?
+Hiyas!
+
+Could someone explain regex syntax so that I might understand it better?
